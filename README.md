@@ -46,7 +46,7 @@ This Java desktop application is a clone of the Epic platform, allowing users to
 3. Build and run the application.
 
 ## Dependencies
-- JavaFX: Link to JavaFX
+- [JavaFX](https://openjfx.io/)
 
 ## Screenshots 
 
