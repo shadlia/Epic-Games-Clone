@@ -7,11 +7,8 @@ This Java desktop application is a clone of the Epic platform, allowing users to
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Structure
 - `src/`: Contains the source code for the application.
