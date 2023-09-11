@@ -14,6 +14,11 @@ This Java desktop application is a clone of the Epic platform, allowing users to
 - `src/`: Contains the source code for the application.
 - `lib/`: Stores external libraries, such as JavaFX.
 - `README.md`: You are here!
+  
+## Tools
+- Java 
+- JavaFx for the UI 
+- SQL as a Database(PhpMyAdmin)
 
 ## Features
 - **User Management:**
