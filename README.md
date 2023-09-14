@@ -35,7 +35,7 @@ This Java desktop application is a clone of the Epic platform, allowing users to
   - Admin panel for adding, editing, and deleting games.
   - Authentication for admin access.
 
-- **Forum Chat Zone:**
+- **Forum Chat Zone: (In progress)**
   - Real-time chat functionality using RMI and socket communication.
   - Secure and private user-to-user chat.
 
