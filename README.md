@@ -42,7 +42,7 @@ This Java desktop application is a clone of the Epic platform, allowing users to
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/epic-clone-desktop-app.git
+   git clone https://github.com/shadlia/Epic-Games-Clone.git
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
 
 3. Build and run the application.
